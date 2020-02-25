@@ -63,6 +63,7 @@ button:hover {
   height: 15rem;
   width: 15rem;
   margin-top:2rem;
+  position: sticky;
 }
 
 .container {
